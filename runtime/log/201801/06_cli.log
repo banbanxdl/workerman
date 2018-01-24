@@ -1,0 +1,32 @@
+[ 2018-01-06T09:40:53+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-01-06T09:40:53+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2018-01-06T09:40:53+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-01-06T09:40:53+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2018-01-06T09:40:53+08:00 ][ error ] [4]syntax error, unexpected end of file, expecting function (T_FUNCTION)[D:\think\tp5_workerman\thinkphp\application\index\controller\Index.php:21]
+[ 2018-01-06T09:41:55+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2018-01-06T09:41:55+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2018-01-06T09:41:55+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2018-01-06T09:41:55+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2018-01-06T09:41:55+08:00 ][ info ] [ PARAM ] array (
+)

@@ -1,0 +1,446 @@
+[ 2017-12-27T08:59:25+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T08:59:37+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T08:59:37+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T08:59:37+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T08:59:37+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T08:59:37+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T09:32:48+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:32:58+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","pwd":"4"}
+[ 2017-12-27T09:33:00+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","pwd":""}
+[ 2017-12-27T09:33:01+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","pwd":""}
+[ 2017-12-27T09:33:03+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:33:27+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:35:19+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T09:35:19+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T09:35:19+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T09:35:19+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T09:35:19+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T09:35:21+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:38:17+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T09:38:17+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T09:38:17+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T09:38:17+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T09:38:17+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T09:38:21+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:38:59+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T09:38:59+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T09:38:59+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T09:38:59+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T09:38:59+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T09:39:01+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:39:12+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T09:39:12+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T09:39:12+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T09:39:12+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T09:39:12+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T09:39:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:40:47+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T09:40:47+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T09:40:47+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T09:40:47+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T09:40:47+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T09:40:51+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:40:51+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:40:55+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:40:55+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:03+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:03+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:03+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:04+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:04+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:04+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:05+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:06+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:06+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:06+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:07+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:07+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:07+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:07+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:08+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:08+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:08+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:09+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:09+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:10+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:36+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:37+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:38+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:38+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:51+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:51+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:53+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:53+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:54+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:54+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:55+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:55+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:56+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:56+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:41:57+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:41:57+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:43:03+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T09:43:03+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T09:43:03+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T09:43:03+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T09:43:03+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T09:43:08+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T09:43:08+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T09:43:08+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T09:43:08+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T09:43:08+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T09:44:00+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T09:44:00+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T09:44:00+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T09:44:00+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T09:44:00+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T09:44:04+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:45:00+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T09:45:00+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T09:45:00+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T09:45:00+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T09:45:00+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T09:45:03+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:45:03+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:46:58+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T09:46:58+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T09:46:58+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T09:46:58+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T09:46:58+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T09:47:01+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:47:01+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:48:32+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T09:48:32+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T09:48:32+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T09:48:32+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T09:48:32+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T09:48:38+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:48:38+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T09:49:39+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"fvt2sd2n82hjml81f6etnmvho5","percent":"88%"}
+[ 2017-12-27T09:49:39+08:00 ][ log ] $worker->onMessagefvt2sd2n82hjml81f6etnmvho5
+[ 2017-12-27T09:49:43+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"fvt2sd2n82hjml81f6etnmvho5","percent":"88%"}
+[ 2017-12-27T09:49:43+08:00 ][ log ] $worker->onMessagefvt2sd2n82hjml81f6etnmvho5
+[ 2017-12-27T09:50:22+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T09:50:22+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T09:50:22+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T09:50:22+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T09:50:22+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T09:50:24+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"fvt2sd2n82hjml81f6etnmvho5","percent":"88%"}
+[ 2017-12-27T09:50:24+08:00 ][ log ] $worker->onMessagefvt2sd2n82hjml81f6etnmvho5
+[ 2017-12-27T09:51:02+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T09:51:02+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T09:51:02+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T09:51:02+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T09:51:02+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T09:51:04+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"fvt2sd2n82hjml81f6etnmvho5","percent":"88%"}
+[ 2017-12-27T09:51:05+08:00 ][ log ] $worker->onMessagefvt2sd2n82hjml81f6etnmvho5
+[ 2017-12-27T09:51:09+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T09:51:09+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T10:02:27+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T10:02:27+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T10:02:27+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T10:02:27+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T10:02:27+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T10:02:30+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"fvt2sd2n82hjml81f6etnmvho5","percent":"88%"}
+[ 2017-12-27T10:02:31+08:00 ][ log ] $worker->onMessagefvt2sd2n82hjml81f6etnmvho5
+[ 2017-12-27T10:03:46+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T10:03:46+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T10:03:46+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T10:03:46+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T10:03:46+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T10:03:51+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"fvt2sd2n82hjml81f6etnmvho5","percent":"88%"}
+[ 2017-12-27T10:03:51+08:00 ][ log ] $worker->onMessagefvt2sd2n82hjml81f6etnmvho5
+[ 2017-12-27T10:07:37+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"fvt2sd2n82hjml81f6etnmvho5","percent":"88%"}
+[ 2017-12-27T10:07:37+08:00 ][ log ] $worker->onMessagefvt2sd2n82hjml81f6etnmvho5
+[ 2017-12-27T10:10:30+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T10:10:30+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T10:10:30+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T10:10:30+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T10:10:30+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T10:10:33+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"fvt2sd2n82hjml81f6etnmvho5","percent":"88%"}
+[ 2017-12-27T10:10:33+08:00 ][ log ] $worker->onMessagefvt2sd2n82hjml81f6etnmvho5
+[ 2017-12-27T15:44:34+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T15:44:36+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T15:45:27+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T15:45:28+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T15:46:08+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T15:46:09+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"3iji2uo5vspcq0h60fd442hui0","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"otnv3mktr3l8v2nbdj34nrd5h4","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"sasqkeu7psnh4as2ekoem0nre1","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"6g7caup26fqpb3sse13i1159s6","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"h70un2r1p4kouepfivjtnffra6","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"njhdl4dv844mlfdtg5i65vf8a2","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"l01atjfdjcm34vpno2h1q5b225","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"ai7d9sru8jen9qcf18mjk652i4","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"8aqjrdfcqsguonp545tj3jide6","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"u99rano8ev68nmtkh15ldua0p7","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"t0lqjmo79uu0ig602n15cvv8q5","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"7ibreq1nuhcanqd456tkeuql85","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"qqhs1uvu3afpmqlh8aie3ellf6","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"l44a8q4vv9fp9015up0u0i1q62","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"q5c9u2roqm34mhmka2rnb4lk84","percent":"88%"}
+[ 2017-12-27T15:47:32+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"vgtu59vacubofi96frr8kd87p0","percent":"88%"}
+[ 2017-12-27T15:47:33+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"te1jogdvgu00eradpmhu3kk5g7","percent":"88%"}
+[ 2017-12-27T15:47:33+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"miq9n7s2h38rs8adn33ee6vap2","percent":"88%"}
+[ 2017-12-27T15:47:33+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"g760tfp04hhadbaggp8ivk6re4","percent":"88%"}
+[ 2017-12-27T15:47:33+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"4f2bhvu5tad5pabcjsjcs9vsi2","percent":"88%"}
+[ 2017-12-27T15:47:33+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"7549j65u5jgt79hpiicsgtn1t6","percent":"88%"}
+[ 2017-12-27T15:47:33+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"jgb9789ai27ef9rpqskg7fdne1","percent":"88%"}
+[ 2017-12-27T15:47:33+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"k9urd5cke7etg6gbflvre2r462","percent":"88%"}
+[ 2017-12-27T15:47:33+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"co7e4eplime6bca8aetjr1u1s4","percent":"88%"}
+[ 2017-12-27T15:47:33+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"1jvvfmlabpioaeld7qjmltv1l1","percent":"88%"}
+[ 2017-12-27T15:47:57+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"fvt2sd2n82hjml81f6etnmvho5","percent":"88%"}
+[ 2017-12-27T15:47:57+08:00 ][ log ] $worker->onMessagefvt2sd2n82hjml81f6etnmvho5
+[ 2017-12-27T15:48:13+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"5kjbccohav4sbm6iu1qe8e2rh6","percent":"88%"}
+[ 2017-12-27T15:48:13+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"l6r7dbjrsa5tsgrcvol0k1c443","percent":"88%"}
+[ 2017-12-27T15:48:13+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"flnd2baek94k202mbpqmhg21b6","percent":"88%"}
+[ 2017-12-27T15:48:13+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"irapht4ik5hoop0dachn1ld450","percent":"88%"}
+[ 2017-12-27T15:48:13+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"5ji292a9nh72n601tl31s358k7","percent":"88%"}
+[ 2017-12-27T15:48:13+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"g3egmhcrmgevl752nrcdp1fg22","percent":"88%"}
+[ 2017-12-27T15:48:13+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"33sir5gst64jr2fmcper3fq7d1","percent":"88%"}
+[ 2017-12-27T15:48:13+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"jn045lb3cvbhamj505jigchqp7","percent":"88%"}
+[ 2017-12-27T15:48:13+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"rlc569jquk5rk348iv2o5gnkp5","percent":"88%"}
+[ 2017-12-27T15:48:13+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"glqt5vc59khjcckc5s0vbcs8r5","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"smg6bhi0dvvucmqsos1211j5o5","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"q0ku53hp09n0ja0e9flqq5ite6","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"3v2mq82ptg0aak8841sejnveg7","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"uu61esafr82qv4npo1voe84mj6","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"8u3aioh7b0f79673kbl48qu5p3","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"30lkcol083qkf0gs6gavntidu6","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"qpj64u42qs9um51v279ldndh95","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"ao8nuau9t79suvlus0jv7tnne5","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"fng2rrfdqpfnlbn2ttrcslsn86","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"j6eegqe3c6u6q2l8pn73vab7h1","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"fcoue54f7iespviq6uh3aeufj7","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"sc9n0900lnfqacde2810muojk7","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"ac1gsd4raao6mjmg24o4n6ggh3","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"5290es94g95slml5qnkb4ocm77","percent":"88%"}
+[ 2017-12-27T15:48:14+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"1q0jmhlgk71u4flr5eqe4itef6","percent":"88%"}
+[ 2017-12-27T16:59:45+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"fvt2sd2n82hjml81f6etnmvho5","percent":"88%"}
+[ 2017-12-27T16:59:45+08:00 ][ log ] $worker->onMessagefvt2sd2n82hjml81f6etnmvho5
+[ 2017-12-27T16:59:51+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"fvt2sd2n82hjml81f6etnmvho5","percent":"88%"}
+[ 2017-12-27T16:59:51+08:00 ][ log ] $worker->onMessagefvt2sd2n82hjml81f6etnmvho5
+[ 2017-12-27T17:00:12+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T17:00:12+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T17:02:35+08:00 ][ log ] $inner_text_worker->onMessage{"uid":"58q81qb9b182cnph2o34qa3bp5","percent":"88%"}
+[ 2017-12-27T17:02:35+08:00 ][ log ] $worker->onMessage58q81qb9b182cnph2o34qa3bp5
+[ 2017-12-27T17:39:33+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T17:39:33+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T17:39:33+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T17:39:33+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T17:39:33+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-27T17:39:38+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-27T17:39:38+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-27T17:39:38+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => 'status',
+  ),
+)
+[ 2017-12-27T17:39:38+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-27T17:39:38+08:00 ][ info ] [ PARAM ] array (
+)

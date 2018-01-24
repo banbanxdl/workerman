@@ -1,0 +1,48 @@
+[ 2017-12-13T17:50:25+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T17:50:25+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-13T17:50:25+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T17:50:25+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T17:50:25+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T17:52:20+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T17:52:20+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-13T17:52:20+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T17:52:20+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T17:52:20+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T17:55:41+08:00 ][ info ] [ LANG ] D:\think\tp5_workerman\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T17:55:41+08:00 ][ info ] [ BIND ] 'push/Worker'
+[ 2017-12-13T17:55:41+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'push',
+    1 => 'Worker',
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T17:55:41+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T17:55:41+08:00 ][ info ] [ PARAM ] array (
+)
